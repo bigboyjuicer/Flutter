@@ -1,4 +1,4 @@
-# cupertino_learning
+# Weather App
 
 A new Flutter project.
 
